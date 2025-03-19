@@ -29,7 +29,7 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 
 ## 🌟 Featured Projects  
 
-- 🖼️ **[AI Image Captioning Tool](https://github.com/your-ai-captioning-repo)** – Lightweight, local AI-powered captioning tool.  
+- 🖼️ **[AI Image Captioning Tool](https://https://github.com/ParmeetBhamrah/AI-Image-Captioning)** – Lightweight, local AI-powered captioning tool.  
 - 🌍 **Portfolio Website** (under development) – A personal portfolio site.  
 
 ## 📫 Connect with Me  
