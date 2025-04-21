@@ -30,6 +30,7 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 ## 🌟 Featured Projects  
 
 - 🖼️ **[AI Image Captioning Tool](https://github.com/ParmeetBhamrah/AI-Image-Captioning)** – Lightweight, local AI-powered captioning tool.  
+- 🎮 **[VALORANT Server Status Checker](https://github.com/ParmeetBhamrah/valorant-server-status-checker)** – A simple Python script that checks the current status of VALORANT servers by scraping live data from [istheservicedown.in](https://istheservicedown.in/problems/valorant).
 - 🌍 **Portfolio Website** (under development) – A personal portfolio site.  
 
 ## 📫 Connect with Me  
