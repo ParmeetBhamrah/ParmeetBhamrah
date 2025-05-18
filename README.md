@@ -24,7 +24,7 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 ## 📈 GitHub Stats  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ParmeetBhamrah&show_icons=true&theme=radical">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="ParmeetBhamrah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ParmeetBhamrah?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </p>  
 
 ## 🌟 Featured Projects  
