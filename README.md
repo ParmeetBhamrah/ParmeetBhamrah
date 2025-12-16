@@ -27,12 +27,32 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="ParmeetBhamrah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ParmeetBhamrah?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </p>  
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
 
-- 🔒 **[Focus Lock](https://github.com/ParmeetBhamrah/focus-lock)** – A Lightweight Productivity Tool for Deep Work.  
-- 🖼️ **[AI Image Captioning Tool](https://github.com/ParmeetBhamrah/AI-Image-Captioning)** – Lightweight, local AI-powered captioning tool.  
-- 🎮 **[VALORANT Server Status Checker](https://github.com/ParmeetBhamrah/valorant-server-status-checker)** – A simple Python script that checks the current status of VALORANT servers by scraping live data from [istheservicedown.in](https://istheservicedown.in/problems/valorant).
-- 🌍 **Portfolio Website** (under development) – A personal portfolio site.  
+- 🤖 **Whiffpy – Python Code Explainer**  
+  Smart Python code explainer and error analyzer for beginners and educators, built on AST-based analysis to generate friendly explanations of errors and logic.  
+  [`whiffpy`](https://github.com/ParmeetBhamrah/whiffpy)
+
+- 🔍 **Stroke Risk Insights Dashboard**  
+  Interactive Power BI dashboard analyzing stroke risk patterns (age, comorbidities, BMI, glucose, lifestyle) using the Kaggle Stroke Prediction dataset, with a focus on descriptive analytics, data cleaning, DAX KPIs, and healthcare data visualization.  
+  [`stroke-risk-insights-dashboard`](https://github.com/ParmeetBhamrah/stroke-risk-insights-dashboard)
+
+- 🌫️ **Air Quality India Analysis**  
+  Exploratory data analysis of real-time air quality data from Indian cities using Python, Pandas, Matplotlib, and Seaborn, with clear visual insights into pollution trends.  
+  [`air-quality-india-analysis`](https://github.com/ParmeetBhamrah/air-quality-india-analysis)
+
+- 🧠 **AI Image Captioning Tool**  
+  Desktop app that generates creative, social-media-friendly captions for uploaded images using a locally running AI model, keeping content fully on-device.  
+  [`AI-Image-Captioning`](https://github.com/ParmeetBhamrah/AI-Image-Captioning)
+
+- 🧘 **Focus Lock – Deep Work Helper**  
+  Python-based CLI productivity tool that blocks distracting apps using psutil so you can stay focused on deep work sessions.  
+  [`focus-lock`](https://github.com/ParmeetBhamrah/focus-lock)
+
+- 🎮 **VALORANT Server Status Checker**  
+  Lightweight Python script that scrapes live data from `istheservicedown.in` to quickly show current VALORANT server status.  
+  [`valorant-server-status-checker`](https://github.com/ParmeetBhamrah/valorant-server-status-checker)
+
 
 ## 📫 Connect with Me  
 
