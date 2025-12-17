@@ -21,9 +21,10 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 - **Tools**: Git, GitHub, VS Code, Jupyter Notebook, Ollama  
 - **AI & ML**: OpenCV, Pillow  
 
-## 📈 GitHub Stats  
+## 📈 Stats and Badges
+[![Codewars Badge](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah/badges/large)](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah)
 
-<p align="center">
+<p>
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="ParmeetBhamrah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ParmeetBhamrah?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </p>  
 
