@@ -24,6 +24,8 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 ## 📈 Stats and Badges
 [![Codewars Badge](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah/badges/large)](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah)
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=odc7OQamCX&theme=dark&border=no-border&animated=true)
+
 <p>
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="ParmeetBhamrah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ParmeetBhamrah?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </p>  
@@ -57,9 +59,8 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 
 ## 📫 Connect with Me  
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/parmeetsinghbhamrah/">LinkedIn</a> |
-    <a href="#">Personal Website</a>  
+<p>
+    <a href="https://www.linkedin.com/in/parmeetsinghbhamrah/">LinkedIn</a>
 </p>  
 
 Thanks for stopping by! 😊  
