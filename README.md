@@ -15,7 +15,7 @@ I'm a **Python Developer** passionate about **data analysis, web development, op
 
 ## 🛠️ Technologies & Tools  
 
-- **Languages**: Python, HTML, CSS  
+- **Languages**: Python, HTML, CSS, JavaScript 
 - **Frameworks**: Flask, Qt  
 - **Databases**: MySQL  
 - **Tools**: Git, GitHub, VS Code, Jupyter Notebook, Ollama  
