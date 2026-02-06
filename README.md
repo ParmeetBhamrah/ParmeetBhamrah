@@ -5,21 +5,10 @@
 </p>  
 <br>  
 
-I'm a **Python Developer** passionate about **data analysis, web development, open-source, and AI**. I enjoy building **efficient applications** and exploring new technologies.  
-
-## 🚀 What I'm Up To  
-
-- 🌱 Learning **Backend Development** with **Flask**.  
-- 💬 Always up for discussions on **Python and AI**.  
-- 📫 Reach me at: **parmeetbhamrah@gmail.com**.  
+I'm a **coder** passionate about **data analysis, web development, open-source, and AI**. I enjoy building **efficient applications** and exploring new technologies.
 
 ## 🛠️ Technologies & Tools  
-
-- **Languages**: Python, HTML, CSS, JavaScript 
-- **Frameworks**: Flask, Qt  
-- **Databases**: MySQL  
-- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, Ollama  
-- **AI & ML**: OpenCV, Pillow  
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=vscode-dark,python-dark,cpp,html,css,javascript,reactjs-dark,tailwindcss-dark,ollama)](https://i.icoziv.workers.dev)
 
 ## 📈 Stats and Badges
 [![Codewars Badge](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah/badges/large)](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah)
