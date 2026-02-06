@@ -8,7 +8,7 @@
 I'm a **coder** passionate about **data analysis, web development, open-source, and AI**. I enjoy building **efficient applications** and exploring new technologies.
 
 ## 🛠️ Technologies & Tools  
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=vscode-dark,python-dark,cpp,html,css,javascript,reactjs-dark,tailwindcss-dark,ollama)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=vscode-dark,python-dark,numpy,pandas,scikitlearn,cpp,html,css,javascript,reactjs-dark,tailwindcss-dark,ollama)](https://i.icoziv.workers.dev)
 
 ## 📈 Stats and Badges
 [![Codewars Badge](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah/badges/large)](https://www.codewars.com/users/Parmeet%20Singh%20Bhamrah)
