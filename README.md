@@ -49,7 +49,7 @@ I'm a **coder** passionate about **data analysis, web development, open-source, 
 ## 📫 Connect with Me  
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/parmeetsinghbhamrah/">LinkedIn</a> | <a href="parmeet-ter-me-nal.vercel.app/">Portfolio</a>
+    <a href="https://www.linkedin.com/in/parmeetsinghbhamrah/">LinkedIn</a> | <a href="https://parmeet-ter-me-nal.vercel.app/">Portfolio</a>
 </p>  
 
 Thanks for stopping by! 😊  
